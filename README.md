@@ -1,5 +1,7 @@
 # Active Directory Lockout Diagnostic Toolkit
 
+> **Related current workflow:** For the root-cause-focused evidence and remediation project, see [Account Lockout Root Cause Analyzer](https://github.com/IAmLegionVaal/Account-Lockout-Root-Cause-Analyzer). This repository remains available as the broader guarded account-recovery variant.
+
 A PowerShell toolkit for Active Directory lockout diagnosis and selected guarded account recovery actions.
 
 ## Diagnostic script
