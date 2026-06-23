@@ -41,6 +41,6 @@ Exit codes are `0` success, `2` invalid input, `3` missing privileges or prerequ
 
 Use the diagnostic report to identify the lockout source first. The repair script does not reset passwords, delete cached credentials, change lockout policy or modify protected administrative accounts.
 
-## Author
+## Maintainer
 
-Dewald Pretorius — L2 IT Support Engineer
+IAmLegionVaal
